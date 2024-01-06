@@ -3,3 +3,5 @@ numpy
 pandas
 pydeck
 streamlit
+psycog2-binary
+psycopg2
