@@ -6,11 +6,11 @@ from psycopg2 import sql
 # Function to create a PostgreSQL connection and cursor
 def create_connection():
     connection = psycopg2.connect(
-        user="postgres",
-        password="Thannu170218!",
-        host="localhost",
+        user="xmnvcwda",
+        password="kk_29N8o7-RKpdIO0QZthrTxmsukh60A",
+        host="tiny.db.elephantsql.com",
         port="5432",
-        database="postgres"
+        database="xmnvcwda"
     )
     cursor = connection.cursor()
     return connection, cursor
