@@ -25,7 +25,7 @@ def main():
     st.title("Expense Tracker")
 
     # Define categories and credit/debit options
-    categories = ["Food", "Utilities", "Transportation", "Entertainment", "Miscellaneous","Return Payment","Investment"]
+    categories = ["Food","Medical","Utilities", "Transportation", "Entertainment", "Miscellaneous","Return Payment","Investment"]
     subcategories = ["Investment-Gold", "Investment-MutualFund", "Investment-TermInsurancePayment", 
                      "Food-Family", "Food-Friends","Misc-OnlinePurchase","Utils-2Wheeeler",
                      "Utils-4Wheeler","Trasnport-TrainTicket","Trasnport-Flight","Misc-Trip",
