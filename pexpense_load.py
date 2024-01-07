@@ -25,11 +25,11 @@ def main():
     st.title("Expense Tracker")
 
     # Define categories and credit/debit options
-    categories = ["Food","Medical","Utilities", "Transportation", "Entertainment", "Miscellaneous","Return Payment","Investment"]
-    subcategories = ["Investment-Gold", "Investment-MutualFund", "Investment-TermInsurancePayment", 
+    categories = ["Food","Medical","Utilities", "Transportation", "Entertainment", "Miscellaneous","loaned","Investment"]
+    subcategories = ["NA","Investment-Gold", "Investment-MutualFund", "Investment-TermInsurancePayment", 
                      "Food-Family", "Food-Friends","Misc-OnlinePurchase","Utils-2Wheeeler",
                      "Utils-4Wheeler","Trasnport-TrainTicket","Trasnport-Flight","Misc-Trip",
-                     "Utils-EB","Utils-Mobile","Utils-Broadband","Enter-Netflix","Enter-Xbox",]
+                     "Utils-EB","Utils-Mobile","Utils-Broadband","Enter-Netflix","Enter-Xbox","Loaned","Loaned-Repaid"]
     credit_debit_options = ["Credit", "Debit"]
     bank_details_options = ["HDFC-9325", "HDFC-1148", "SBI-4398", "EQSM-1764"]
 
