@@ -26,7 +26,7 @@ def main():
 
     # Define categories and credit/debit options
     categories = ["Food","Medical","Utilities", "Transportation", "Entertainment", "Miscellaneous","loaned","Investment"]
-    subcategories = ["NA","Investment-Gold", "Investment-MutualFund", "Investment-TermInsurancePayment", 
+    subcategories = ["NA","Utils-Dress","Investment-Gold", "Investment-MutualFund", "Investment-TermInsurancePayment", 
                      "Food-Family", "Food-Friends","Misc-OnlinePurchase","Utils-2Wheeeler",
                      "Utils-4Wheeler","Trasnport-TrainTicket","Trasnport-Flight","Misc-Trip",
                      "Utils-EB","Utils-Mobile","Utils-Broadband","Enter-Netflix","Enter-Xbox","Loaned","Loaned-Repaid"]
